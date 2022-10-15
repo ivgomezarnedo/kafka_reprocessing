@@ -9,6 +9,7 @@ __pycache__/
 .workspace
 *idea
 tmp
+Article.md
 
 # Properties
 config.properties
